@@ -11,7 +11,7 @@
 
 var gElSelectedSeat = null;
 var gCinema = createCinema();
-console.log(gCinema);
+// console.log(gCinema);
 renderCinema();
 
 function createCinema() {
